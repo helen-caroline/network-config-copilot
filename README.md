@@ -27,13 +27,6 @@ flowchart TD
     E -.-> H
 ```
 
-## Por que existe
-
-Minha stack de trabalho é forte em infra/redes/pipelines (Terraform, Ansible,
-GitHub Actions, automação de switch via SSH), mas eu não tinha nenhum repositório
-público mostrando **construção** de agente com LLM — só uso de Copilot/ChatGPT no
-dia a dia. Este projeto fecha esse gap reaproveitando o que eu já sei fazer.
-
 ## O que ele prova
 
 - **Decisão + ação, não só geração de texto**: o LLM não "responde uma pergunta",
