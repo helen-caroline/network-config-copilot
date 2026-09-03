@@ -1,5 +1,8 @@
 # Network Config Copilot
 
+[![tests](https://github.com/helen-caroline/network-config-copilot/actions/workflows/tests.yml/badge.svg)](https://github.com/helen-caroline/network-config-copilot/actions/workflows/tests.yml)
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Um agente que traduz um pedido em linguagem natural ("libera a VLAN 20 na porta 3
 do switch X") em comandos reais de CLI de rede — **valida antes de aplicar** e só
 então executa via SSH.
